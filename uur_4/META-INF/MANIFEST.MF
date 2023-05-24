@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: uur4.uur_4.HelloApplication
+
